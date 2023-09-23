@@ -4,3 +4,5 @@
 #### This is a header 4
 ##### This is a header 5
 ###### This is a header 6
+
+![Image of a dragon curling around a tower from the manga Berzerk](https://i.pinimg.com/originals/e5/cb/cd/e5cbcd05f87147c1afbe3483566e46ee.jpg)
