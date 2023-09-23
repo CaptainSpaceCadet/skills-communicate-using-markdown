@@ -17,3 +17,7 @@ int var;
 var = 8;
 for (int i = 1; var > 0; var -= i) i++;
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
